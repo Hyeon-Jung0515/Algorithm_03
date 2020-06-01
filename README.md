@@ -24,6 +24,7 @@ Model1-5. Images and corresponding probability that predicted Wrong
 
 
 
+
 Model2-2. Training with Training loss
 
 ![Model2-2](https://user-images.githubusercontent.com/66268382/83448360-cc688500-a48c-11ea-838d-8a662d132e86.JPG)
@@ -42,6 +43,7 @@ Model2-4. Images and corresponding probability that predicted Right
 Model2-5. Images and corresponding probability that predicted Wrong
 
 ![Model2-4](https://user-images.githubusercontent.com/66268382/83448346-ca062b00-a48c-11ea-9ec9-1be780884fe1.JPG)
+
 
 
 
