@@ -65,6 +65,6 @@
 ![Model3-3](https://user-images.githubusercontent.com/66268382/83448355-cb375800-a48c-11ea-9fc5-38aea1c2c26e.JPG)
 
 
-**Model3-5. Images and corresponding probability that predicted Wrong
+**Model3-5. Images and corresponding probability that predicted Wrong**
 
 ![Model3-4](https://user-images.githubusercontent.com/66268382/83448356-cbcfee80-a48c-11ea-8d4b-ac58e221c050.JPG)
